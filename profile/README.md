@@ -1,16 +1,16 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./logo-dark.svg">
-        <img alt="OSSN-light" src="./logo.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ossnsut/.github/main/profile/logo-dark.svg">
+        <img alt="OSSN-light" src="https://raw.githubusercontent.com/ossnsut/.github/main/profile/logo.svg">
     </picture>
 </p>
 
 # What is this?
 
-This is the official _Organization_ place where OSSN contributions happen.
+This is the official _Organization_ where OSSN contributions happen.
 
-## We are also at
+## Also find us through
 
 - [Instagram](https://www.instagram.com/oss.nsut/)
 - [Email](mailto:ossnsut@gmail.com)
