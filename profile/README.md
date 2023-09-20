@@ -10,7 +10,7 @@
 
 This is the official _Organization_ where OSSN contributions happen.
 
-## Visit our website at [ossnsut.zc.al](https://ossnsut.zc.al)
+## Visit our website at [ossnsut.github.io](https://ossnsut.github.io/)
 
 ## Also find us through
 
